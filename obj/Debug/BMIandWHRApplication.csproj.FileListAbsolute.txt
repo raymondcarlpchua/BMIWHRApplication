@@ -1,0 +1,28 @@
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\bin\Debug\BMIandWHRApplication.exe.config
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\bin\Debug\BMIandWHRApplication.exe
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\bin\Debug\BMIandWHRApplication.pdb
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.csprojResolveAssemblyReference.cache
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormLogin.resources
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.Properties.Resources.resources
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.csproj.GenerateResource.Cache
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.exe
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.pdb
+c:\users\raymond carl chua\documents\visual studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormCalculator.resources
+C:\Users\Raymond Carl Chua\Documents\Visual Studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormBMI.resources
+C:\Users\Raymond Carl Chua\Documents\Visual Studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormWHR.resources
+C:\Users\Raymond Carl Chua\Documents\Visual Studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormOver.resources
+C:\Users\Raymond Carl Chua\Documents\Visual Studio 2012\Projects\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormUnder.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\bin\Debug\BMIandWHRApplication.exe.config
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.exe
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.pdb
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\bin\Debug\BMIandWHRApplication.exe
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\bin\Debug\BMIandWHRApplication.pdb
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.csprojResolveAssemblyReference.cache
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormBMI.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormCalculator.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormLogin.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormOver.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormUnder.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.FormWHR.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.Properties.Resources.resources
+C:\Users\JustinMendoza\Downloads\Compressed\BMIandWHRApplication\BMIandWHRApplication\obj\Debug\BMIandWHRApplication.csproj.GenerateResource.Cache
